@@ -75,7 +75,8 @@ include vendor/yu-aosp/config/themes_common.mk
 PRODUCT_PACKAGES += \
     Development \
     LatinIME \
-    BluetoothExt
+    BluetoothExt \
+    Launcher3
 
 # Extra tools in yu-aosp
 PRODUCT_PACKAGES += \
